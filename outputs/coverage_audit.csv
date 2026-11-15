@@ -1,0 +1,4 @@
+Winter,Expected_days,Rows_present,Absent_dates,Missing_snow_rows,Valid_snow_days,Coverage_pct,Complete_window
+2023-2024,213,174,39,1,173,81.22065727699531,False
+2024-2025,212,212,0,0,212,100.0,True
+2025-2026,212,212,0,0,212,100.0,True
